@@ -33,17 +33,14 @@ MegaMarts is a store which sells various goods to consumers all over the world. 
 
 ## Data Source
 
-1. transaction_data.csv 
 
-[](https://finch-groundhog-9245.squarespace.com/s/transaction_data.csv)
+[ 1. transaction_data.csv ](https://raw.githubusercontent.com/Ashmin-Bhattarai/MegaMart-Sales-Dashboard/main/data/transaction_data.csv)
 
-2. salesperson.csv
 
-[](https://finch-groundhog-9245.squarespace.com/s/salesperson.csv)
+[ 2. salesperson.csv ](https://raw.githubusercontent.com/Ashmin-Bhattarai/MegaMart-Sales-Dashboard/main/data/salesperson.csv)
 
-1. product.csv
 
-[](https://finch-groundhog-9245.squarespace.com/s/product.csv)
+[3. product.csv](https://raw.githubusercontent.com/Ashmin-Bhattarai/MegaMart-Sales-Dashboard/main/data/product.csv)
 
 ## Data Model
 
